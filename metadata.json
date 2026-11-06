@@ -1,0 +1,6 @@
+{
+  "name": "WellBridge - Live Capacity & Discovery Map",
+  "description": "Mobile-first fitness access platform showing live facility capacity, non-expiring digital wallet credits, and instant discovery for busy athletes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
